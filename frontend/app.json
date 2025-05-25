@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "VoiceTranslator",
-    "slug": "VoiceTranslator",
+    "name": "TextTranslator",
+    "slug": "TextTranslator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

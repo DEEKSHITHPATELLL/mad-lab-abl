@@ -131,7 +131,7 @@ export default function App() {
 
       <ScrollView style={styles.content}>
         <View style={styles.header}>
-          <Text style={styles.title}>🌍 Voice Translator</Text>
+          <Text style={styles.title}>🌍Text Translator</Text>
           <View style={styles.statusContainer}>
             <View style={[styles.statusDot, { backgroundColor: connected ? '#4CAF50' : '#F44336' }]} />
             <Text style={styles.statusText}>
